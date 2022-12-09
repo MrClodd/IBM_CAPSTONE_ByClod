@@ -19,7 +19,7 @@
 
 ## 📫 Airbnb data analysis
 
-- Objective:
+Objective:
 
 In this exercise, you will perform Data Analytics on a set of open data from Airbnb. Some of the tasks include:
 
