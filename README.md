@@ -2,13 +2,18 @@
 
 ## 💬 Previous Requirements
 
-
 •  Knowledge of Python
+
 •  Power BI or Tableau
+
 •  Understanding data cleansing
+
 •  Understanding data visualization
+
 •  Exercise level: Intermediate
+
 •  Duration: approximately 3 hours
+
 •  All exercises are required to successfully complete this project
 
 
