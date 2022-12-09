@@ -51,4 +51,4 @@ Power your data analyst career by learning the core principles of data analysis 
 In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
 
 <p align="center">
-<img src="https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ed843b9c2fd84a44bc0ae856bdc45398185d94ad.gif" width=40% height=40%>
+<img src="https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ed843b9c2fd84a44bc0ae856bdc45398185d94ad.gif" width=30% height=80%>
