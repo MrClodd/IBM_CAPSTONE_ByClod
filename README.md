@@ -34,6 +34,12 @@ In this exercise, you will perform Data Analytics on a set of open data from Air
 - You can get the dataset for this assessment at the following link:
 <a href="https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata" height="30" width="40" /></a>
 
+## Execute the tests with Jupyter
+
+            jupyter notebook
+            
+- Para ejecutar jupyter, abrir la línea de comandos de Windows y escribir la instrucción: jupyter notebook y presionar Enter. Al ejecutarse, se abrirá una pestaña en su navegador web predefinido, por medio del cual podemos crear y ejecutar notebooks de jupyter.
+
 ## 📍 About this Professional Certificate
 Gain the **job-ready skills** for an entry-level data analyst role through this eight-course Professional Certificate from IBM and position yourself competitively in the thriving job market for data analysts, which will see a 20% growth until 2028 (U.S. Bureau of Labor Statistics).
 
