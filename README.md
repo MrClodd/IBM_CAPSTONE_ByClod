@@ -43,7 +43,7 @@ Power your data analyst career by learning the core principles of data analysis 
 ## 🥇 Professional Certificate
 
 <p align="center">
-<img src="https://freefrontend.com/assets/img/css-loaders/loading.gif" width=40% height=80%>
+<img src="https://freefrontend.com/assets/img/css-loaders/loading.gif" width=50% height=80%>
 
   
   - [x] [__IBM Data Analyst Capstone Project__](https://github.com/MrClodd/IBM-data-analyst-Airbnb-ByClod/blob/a0fe7573339a8296338b722f4300833b7845a0d7/Capstone_Project_Spanish.ipynb)
@@ -51,4 +51,4 @@ Power your data analyst career by learning the core principles of data analysis 
 In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
 
 <p align="center">
-<img src="https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ed843b9c2fd84a44bc0ae856bdc45398185d94ad.gif" width=30% height=80%>
+<img src="https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ed843b9c2fd84a44bc0ae856bdc45398185d94ad.gif" width=50% height=80%>
