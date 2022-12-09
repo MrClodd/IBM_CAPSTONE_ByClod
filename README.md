@@ -1,6 +1,7 @@
 # IBM Data Analyst Professional SkillsBuild Europe <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ## 💬 Previous Requirements
+
 •  Knowledge of Python
 •  Power BI or Tableau
 •  Understanding data cleansing
