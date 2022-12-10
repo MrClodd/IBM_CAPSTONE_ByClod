@@ -34,7 +34,7 @@ In this exercise, you will perform Data Analytics on a set of open data from Air
 You can get the dataset for this assessment at the following link:
 <a href="https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata" height="30" width="40" /></a>
 
-## 🚀 Execute the tests with Jupyter
+## 🚀 Execute the Project with Jupyter
 
 To run jupyter, open the windows command line and type the instruction: jupyter notebook and press Enter. When executed, it opens a tab in your default web browser, through which we can create and run jupyter notebooks
 
