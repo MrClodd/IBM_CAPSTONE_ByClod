@@ -35,7 +35,6 @@ You can get the dataset for this assessment at the following link:
 <a href="https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata" height="30" width="40" /></a>
 
 Read Jupyter Notebook: 
-
 <a href="https://nbviewer.org/" target="blank"><img align="center" src="https://nbviewer.org/static/img/nav_logo.svg" alt="https://nbviewer.org/" height="30" width="40" /></a>
 
 ## 🚀 Execute the Project with Jupyter
