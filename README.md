@@ -53,7 +53,7 @@ Power your data analyst career by learning the core principles of data analysis 
 ## 🥇 Professional Certificate
 
 <p align="center">
-<img src="https://github.com/MrClodd/IBM_CAPSTONE_ByClod/blob/f24ac6722155db15bb526ff66d90e0a53ed53ba5/Claudiu%20Dumitru%20Alexandru.pdf" width=90% height=20%>
+<img src="Claudiu Dumitru Alexandru.pdf" width=90% height=20%>
 
   
   - [x] [__IBM Data Analyst Capstone Project__](https://github.com/MrClodd/IBM-data-analyst-Airbnb-ByClod/blob/a0fe7573339a8296338b722f4300833b7845a0d7/Capstone_Project_Spanish.ipynb)
