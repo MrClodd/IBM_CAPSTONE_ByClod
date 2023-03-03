@@ -53,7 +53,7 @@ Power your data analyst career by learning the core principles of data analysis 
 ## 🥇 Professional Certificate
 
 <p align="center">
-<img src="https://github.com/MrClodd/IBM_CAPSTONE_ByClod/blob/db699c50a3ec8b7156d05c9174a6f73ad96f3de6/certificate.png" width=90% height=20%>
+<img src="https://github.com/MrClodd/IBM_CAPSTONE_ByClod/blob/db699c50a3ec8b7156d05c9174a6f73ad96f3de6/certificate.png" width=50% height=20%>
 
   
   - [x] [__IBM Data Analyst Capstone Project__](https://github.com/MrClodd/IBM-data-analyst-Airbnb-ByClod/blob/a0fe7573339a8296338b722f4300833b7845a0d7/Capstone_Project_Spanish.ipynb)
